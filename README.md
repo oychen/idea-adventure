@@ -1,2 +1,2 @@
 # idea-adventure
-idea blast here
+idea blast here now
